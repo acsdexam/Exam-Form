@@ -1,9 +1,4 @@
 const data = [
-  "ACCE 100 B",
-  "ACCE 100 WT",
-  "ACCE 200 B",
-  "ACCE 200 WT",
-  "ACCE 300 B",
   "ACCE 300 WT",
   "ACCE 400 B",
   "ACCE 400 WT",
