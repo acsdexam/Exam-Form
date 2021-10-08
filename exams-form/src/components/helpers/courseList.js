@@ -1,4 +1,5 @@
 const data = [
+  "XOXO 301 BB",
   "ACCE 100 B",
   "ACCE 100 WT",
   "ACCE 200 B",
