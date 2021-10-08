@@ -12,7 +12,7 @@ const Home = () => {
     </Wrapper>
   );
 };
-//comment by CAA
+//comment by CAA 2
 // test
 const Wrapper = styled.div`
   width: 80vw;
