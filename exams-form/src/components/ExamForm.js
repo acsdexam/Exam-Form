@@ -188,7 +188,7 @@ const ExamForm = () => {
             <Label htmlFor="name">Name: </Label>
             <Input
               id="name"
-              placeholder="First name Last name"
+              placeholder="Your full name"
               value={Inputs.name}
               onChange={(ev) => handleNameInput(ev)}
               required
