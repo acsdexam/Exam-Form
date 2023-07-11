@@ -1,5 +1,5 @@
 const data = [
-  "SMMR 101 S",
+  "SMMR 102 S",
   "ACCE 100 B",
   "ACCE 100 WT",
   "ACCE 200 B",
