@@ -7971,10 +7971,8 @@ const data = [
 "URBS 483 AA",
 "URBS 491 AA",
 "VDEO 350 A",
-"WSDB 496 AA",
-
-
-  ];
+"WSDB 496 AA"
+ ];
   
   const courseList = data.map((el, index) => {
     return {
