@@ -1515,7 +1515,7 @@ const data = [
 "ENCS 6191 DEL",
 "ENCS 6191 FF",
 "ENCS 6201 EC",
-"ENCS 6721 DEL\",
+"ENCS 6721 DEL",
 "ENCS 6721 FF",
 "ENCS 6821 TA",
 "ENCS 691 G",
@@ -7971,8 +7971,10 @@ const data = [
 "URBS 483 AA",
 "URBS 491 AA",
 "VDEO 350 A",
-"WSDB 496 AA"
- ];
+"WSDB 496 AA",
+
+
+  ];
   
   const courseList = data.map((el, index) => {
     return {
@@ -7982,4 +7984,3 @@ const data = [
   });
   
   export default courseList;
-  
