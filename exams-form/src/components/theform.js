@@ -322,7 +322,7 @@ const ExamForm = () => {
                           <Textarea
                             rows="4"
                             cols="30"
-                            placeholder="Exam instructions, formula sheet, open/close book etc."
+                            placeholder="Instructions, apply to all sections, formula sheet, open/close book etc."
                             defaultValue={
                               Inputs.examInfo[index].testInfo[i].instructions
                             }
