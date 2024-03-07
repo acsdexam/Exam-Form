@@ -20,7 +20,7 @@ const Title = () => {
       </p>
 
       <p>
-        DO NOT fill this form if your exam, midterm or quiz is on COLE, moodle,
+        DO NOT fill this form if your exam, midterm or quiz is on COLE, Moodle,
         eConcordia or on any other online platform.
       </p>
 
