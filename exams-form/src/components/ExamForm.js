@@ -237,7 +237,7 @@ const ExamForm = () => {
                       <Input
                         type="date"
                         value={Inputs.examInfo[index].examDate}
-                        min={Date.getDate()}
+                        min={Date.now() + 500}
                        // min={Date.now()}
                        // min="2024-05-01"
                         max="2030-12-31"
