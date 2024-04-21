@@ -238,7 +238,8 @@ const ExamForm = () => {
                         type="date"
                         value={Inputs.examInfo[index].examDate}
                        // min={Date.now()}
-                        min="2024-05-02"
+                       // min="2024-05-02"
+                        min = new Date().toISOString().split("T")[0]
                         max="2030-12-31"
                         onChange={(ev) => handleDateUpdate(ev, index)}
                         required
