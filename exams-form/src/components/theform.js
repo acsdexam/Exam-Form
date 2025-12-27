@@ -165,7 +165,8 @@ const ExamForm = () => {
 
   return (
     <Wrapper>
-      <Form onSubmit={handleSubmit}>
+  {/* <Form onSubmit={handleSubmit}> */}
+      <Form>
         <RowContainer>
           <ColumnContainer>
             <Label htmlFor="name">Name: </Label>
