@@ -5,11 +5,11 @@ const Title = () => {
   return (
     <Wrapper>
       <H1>
-        Access Center for Students with Disabilities - Exam Information Form
+        Access Center for Students with Disabilities - Exam Information Form<br>FORM CLOSED. GO TO <a href="https://takeme2.concordia.ca/index.html?app=swd">ACSD PORTAL ON CONCORDIA's WEBSITE</a>
       </H1>
       <p>
-        This form gathers high level information for all in-person midterms,
-        exams or quizzes.
+        THIS FORM IS CLOSED<!--This form gathers high level information for all in-person midterms,
+        exams or quizzes.-->
       </p>
 
       <p>
