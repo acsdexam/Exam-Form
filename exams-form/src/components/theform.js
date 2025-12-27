@@ -249,7 +249,7 @@ const ExamForm = () => {
                   <br />
                   <Button
                     style={{
-                      visibility: index > 0 ? "visibile" : "hidden",
+                      visibility: index > 0 ? "visible" : "hidden",
                     }}
                   >
                     Remove this course
@@ -335,7 +335,7 @@ const ExamForm = () => {
                           <br />{" "}
                           <Button
                             style={{
-                              visibility: i > 0 ? "visibile" : "hidden",
+                              visibility: i > 0 ? "visible" : "hidden",
                             }}
                           >
                             Remove test
