@@ -12,7 +12,7 @@ const Title = () => {
     </p>
     <p>
     GO TO {" "} 
-    <a href="https://takeme2.concordia.ca/index.html?app=swd">ACSD PORTAL ON THE CONCORDIA WEBSITE</a>
+    <a href="https://takeme2.concordia.ca/index.html?app=fss">ACSD PORTAL ON THE CONCORDIA WEBSITE</a>
   </p>
       <p>
         Please contact{" "}
