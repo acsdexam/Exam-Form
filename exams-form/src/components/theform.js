@@ -358,7 +358,7 @@ const ExamForm = () => {
         <Button onClick={handleAddCourse} style={{ marginLeft: "40px" }}>
           Add another course
         </Button>
-        <Button type="submit">Submit</Button>
+          {/*<Button type="submit">Submit</Button>*/}
       </Form>
     </Wrapper>
   );
