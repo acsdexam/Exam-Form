@@ -5,11 +5,18 @@ const Title = () => {
   return (
     <Wrapper>
       <H1>
-        Access Center for Students with Disabilities - Exam Information Form<br>FORM CLOSED. GO TO <a href="https://takeme2.concordia.ca/index.html?app=swd">ACSD PORTAL ON CONCORDIA's WEBSITE</a>
+        Access Center for Students with Disabilities - Exam Information Form<br>FORM CLOSED. GO TO {" "} 
+    <a href="https://takeme2.concordia.ca/index.html?app=swd">ACSD PORTAL ON THE CONCORDIA WEBSITE</a>
       </H1>
       <p>
-        THIS FORM IS CLOSED<!--This form gathers high level information for all in-person midterms,
-        exams or quizzes.-->
+        THIS FORM IS CLOSED
+      </p>
+      <p>
+        Please contact{" "}
+        <a href="mailto:acsdexam@concordia.ca">acsdexam@concordia.ca</a> for more information.
+    </p>
+    {/*This form gathers high level information for all in-person midterms,
+        exams or quizzes.
       </p>
 
       <p>
@@ -22,14 +29,15 @@ const Title = () => {
       <p>
         DO <strong>NOT</strong> fill this form if your exam, midterm or quiz is on Moodle, eConcordia, 
         exam on personal laptops, blended exams or on any other online platform.
-      </p>
-
+      
+        </p>
+      */}
       {/* <p>
         Whenever you are ready, and at least 10 days before your exam, you must
         NECESSARILY complete this form in order to have your exams booked with
         ACSD.
       </p> */}
-
+    {/* 
       <p>
         If, after completing this form, your exam dates or exam information
         changes, please contact{" "}
@@ -40,6 +48,7 @@ const Title = () => {
         DO NOT fill out this form for Final exams, we will receive that
         information from the Exams Office.
       </p>
+      */}
     </Wrapper>
   );
 };
